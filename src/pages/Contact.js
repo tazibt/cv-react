@@ -8,7 +8,7 @@ const Contact = () => {
             <div className='contactContent'>
                 <div className='header'></div>
                 <div className='contactBox'>
-                    <h1>coordinates</h1>
+                    <h1>Contact</h1>
                     <ul>
                         <li>
                             <i className='fas fa-map-marker-alt'></i>
