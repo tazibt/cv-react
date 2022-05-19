@@ -14,7 +14,23 @@ const Home = () => {
                     </div>
                 
                     
-                        
+                    <div className='socialNetwork'>
+                    <ul>
+                     <li>
+                         <a href='https://www.linkedin.com/in/it-220771239'target='_blanc'
+                         rel='noopener noreferrer.'><i className='fab fa-linkedin'></i></a>
+                      </li>
+                     <li>
+                          <a href='https://github.com/tazibt'target='_blanc'
+                            rel='noopener noreferrer.'><i className='fab fa-github'></i></a>
+                        </li> 
+                     <li>
+                          <a href='https://codepen.io/tazibt'target='_blanc'
+                            rel='noopener noreferrer.'><i className='fab fa-codepen'></i></a>
+                         </li>     
+                     </ul>
+                
+                     </div> 
                         
                 
                     
