@@ -10,7 +10,7 @@ const Hobbies = () => {
             
                 <li className='hobby'>
                 
-                   <span>Astrologie</span>
+                   <span>Astrology</span>
                    <IoPlanetOutline className='font' />
                 </li>
                
