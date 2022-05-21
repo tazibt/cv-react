@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/cv-react/static/css/main.4300ead3.css",
-    "main.js": "/cv-react/static/js/main.1696fe77.js",
+    "main.css": "/cv-react/static/css/main.29c90c5b.css",
+    "main.js": "/cv-react/static/js/main.692e738b.js",
     "static/js/787.5344719b.chunk.js": "/cv-react/static/js/787.5344719b.chunk.js",
     "static/media/source.jpg": "/cv-react/static/media/source.cad855b4f25775a4d34d.jpg",
     "static/media/map.jpg": "/cv-react/static/media/map.3e5949c9b6f7cd03bd31.jpg",
@@ -9,12 +9,12 @@
     "static/media/ocean.jpg": "/cv-react/static/media/ocean.1405bcbf7d57a77cfea1.jpg",
     "index.html": "/cv-react/index.html",
     "static/media/shape.svg": "/cv-react/static/media/shape.1d026b20b3a18a74a971.svg",
-    "main.4300ead3.css.map": "/cv-react/static/css/main.4300ead3.css.map",
-    "main.1696fe77.js.map": "/cv-react/static/js/main.1696fe77.js.map",
+    "main.29c90c5b.css.map": "/cv-react/static/css/main.29c90c5b.css.map",
+    "main.692e738b.js.map": "/cv-react/static/js/main.692e738b.js.map",
     "787.5344719b.chunk.js.map": "/cv-react/static/js/787.5344719b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4300ead3.css",
-    "static/js/main.1696fe77.js"
+    "static/css/main.29c90c5b.css",
+    "static/js/main.692e738b.js"
   ]
 }
