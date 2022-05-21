@@ -22,14 +22,28 @@ const Contact = () => {
                         </li>
                         <li>
                            <i className='fas fa-envelope'></i>
-                              <CopyToClipboard text='tazibt2010@gmail.com'>
+                              <CopyToClipboard text='ismailtazibt@gmail.com'>
                                 <span className='clickInput' onClick={() => alert('E-mail  copié')}>tazibt2010@gmail.com</span>
                               </CopyToClipboard>                      
                         </li>
                     </ul>
                 </div>
-                
-
+                <div className='socialNetwork'>
+                     <ul>
+                        <li>
+                         <a href='https://www.linkedin.com/in/it-220771239'target='_blanc'
+                         rel='noopener noreferrer.'><i className='fab fa-linkedin'></i></a>
+                         </li>
+                        <li>
+                          <a href='https://github.com/tazibt'target='_blanc'
+                            rel='noopener noreferrer.'><i className='fab fa-github'></i></a>
+                        </li> 
+                         <li>
+                          <a href='https://codepen.io/tazibt'target='_blanc'
+                            rel='noopener noreferrer.'><i className='fab fa-codepen'></i></a>
+                         </li>     
+                     </ul>
+                </div>
             </div>
         </div>
     );

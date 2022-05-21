@@ -24,6 +24,7 @@
         text-shadow: 1px 4px 1px $black;
       }
       .pdf {
+        margin-top: 20rem;
         text-align: center;
         a {
           font-size: 1.5rem;
@@ -38,43 +39,11 @@
           }
         }
       }
-      .socialNetwork {
-        margin-top: 20rem;
-        grid-area: 3;
-
-       ul {
-         display: flex;
-         width: 264px;
-         padding: 0 14px;
-         justify-content: space-between;
-
-         li {
-           font-size: 1.5rem;
-           background: $color-5;
-           color: $color-1;
-           border-radius: 50%;
-           padding: .5rem 0.8rem;
-           transition: .3s;
-           cursor: pointer;
-
-            a:visited {
-             color: $color-1;
-             }
-            &:nth-child(1){
-             padding: .5rem .85rem
-            }
-            &:nth-child(4){
-             padding: .5rem .75rem
-            }
-             &:hover {
-             background: $color-4;
-            }
-          }
-         }
+     
     
-        }
-      }
-   }
+        
+    }
+  }
   
 
 @media screen and (max-width: 850px){
